@@ -11,6 +11,12 @@ I am now eager to leverage my analytical aptitude and data science skills to mak
 ## About Me
 I am a certified data analyst with a strong background in Python programming, statistics, machine learning, SQL, and Tableau. I completed a comprehensive 16-week data analytics certification course from an institute affiliated with FAST University in Karachi. My passion lies in leveraging data to solve complex problems and drive business decisions.
 
+- - **Email:** saeedaa.fatimah@gmail.com
+- - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
+- - **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
+- - **Github Portfolio:** [https://github.com/saeedaFatimah/Portfolio/blob/Portfolio/README.md)
+
+
 ## Skills
 - **Programming Languages:** Python, SQL
 - **Data Analysis:** pandas, NumPy, Matplotlib, seaborn
@@ -18,10 +24,6 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Data Visualization:** Tableau, Matplotlib, seaborn
 - **Tools:** Jupyter Notebook, Git, Excel
 
-- - **Email:** saeedaa.fatimah@gmail.com
-- - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
-- - **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
-- - **Github Portfolio:** [https://github.com/saeedaFatimah/Portfolio/blob/Portfolio/README.md)
 
 ## Projects
 
