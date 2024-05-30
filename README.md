@@ -23,7 +23,7 @@ I am a certified data analyst with a strong background in Python programming, st
   - Model Training: Implemented various algorithms, including Logistic Regression, Decision Trees, and Random Forest, and performed hyperparameter tuning.
   - Model Evaluation: Assessed models using accuracy, precision, recall, F1-score, and ROC-AUC, and used cross-validation to ensure consistency.
 - **Skills Used:** Python, pandas, scikit-learn, data visualization.
-- **Link to Project:** [GitHub Repository](https://github.com/yourusername/employee-churn-prediction)
+- **Link to Project:** [GitHub Repository](https://github.com/saeedaFatimah/Portfolio/tree/project-1-StreamLit-App-for-Employee-Churn)
 
 ### [Customer Segmentation using RFM Analysis](projects/customer-segmentation-rfm)
 - **Description:** A project for segmenting customers based on Recency, Frequency, and Monetary metrics to improve marketing strategies.
@@ -55,16 +55,11 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Skills Used:** Python, pandas, statsmodels, data visualization.
 - **Link to Project:** [GitHub Repository](https://github.com/yourusername/sales-forecasting)
 
-## Certifications
-
-- **Data Analytics Certification:** [View Certification](certifications/data-analytics-certification.pdf)
-- **Machine Learning Specialization:** [View Certification](certifications/machine-learning-specialization.pdf)
-- **Tableau Data Visualization:** [View Certification](certifications/tableau-data-visualization.pdf)
 
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** saeedaa.fatimah@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
 - **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
 
 ## How to Use
