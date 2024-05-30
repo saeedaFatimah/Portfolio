@@ -21,7 +21,7 @@ I am a certified data analyst with a strong background in Python programming, st
 - - **Email:** saeedaa.fatimah@gmail.com
 - - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
 - - **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
-- - **Github Portfolio**[Saeeda Ramzan's Portfolio](https://github.com/saeedaFatimah/Portfolio/edit/Portfolio/README.md)
+- - **Github Portfolio:** [Saeeda Ramzan's Portfolio](https://github.com/saeedaFatimah/Portfolio/edit/Portfolio/README.md)
 
 ## Projects
 
