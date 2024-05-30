@@ -85,9 +85,9 @@ Environment: Jupyter Notebook
 **Conclusion**
 Analyzed and visualized athlete data to identify trends in physical attributes across regions. Demonstrated proficiency in data cleaning, statistical analysis, and visualization.
 
- **Link to Project:**  [Olympic Athlete Data Analysis ](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+ **Link to Project:**  [Olympic Athlete Data Analysis ](https://github.com/saeedaFatimah/Portfolio/tree/Project-3-Olympic-Athlete-Data-Analysis)
 
-### [ML Classification for the Employee Dataset ]
+### [ML Model Classification for the Employee Dataset ]
 
 **Project Overview**
 In this project, we predicted employee churn using a dataset with features such as education level, joining year, city, payment tier, age, gender, experience in the current domain, and whether the employee has ever been benched. The target variable was 'LeaveOrNot'.
@@ -115,7 +115,7 @@ Important Features: 'ExperienceInCurrentDomain', 'Age', and 'PaymentTier'.
 **Conclusion**
 Effective use of machine learning to predict employee churn, providing insights to help reduce turnover and improve retention strategies.
 
-**Link to Project:**  [ML Classification for the Employee Dataset](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+**Link to Project:**  [ML Classification for the Employee Dataset](https://github.com/saeedaFatimah/Portfolio/tree/Project-4-ML-Model-Classification-for-the-Employee-Dataset)
 
 - **Email:** saeedaa.fatimah@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
@@ -178,7 +178,7 @@ Jupyter Notebook
 **Conclusion**
 This project analyzed Hubway bike-sharing data to identify trends in user behavior and demographics. The analysis demonstrated proficiency in SQL for data extraction, Python for data manipulation and visualization, and effective communication of findings through visualizations
 
-**Link to Project:**  [Hubway Trips Analysis through SQL and Pandas](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+**Link to Project:**  [Hubway Trips Analysis through SQL and Pandas](https://github.com/saeedaFatimah/Portfolio/tree/Project-5-Hubway-Trips-Analysis-through-SQL-and-Pandas)
 
 
 ### Merchant Market Dashboard
@@ -237,10 +237,10 @@ Data Transformation: Power Query for data cleaning and preparation.
 **Conclusion**
 The Merchant Market dashboard provides comprehensive insights into sales performance, customer behavior, product analysis, and regional trends. It demonstrates advanced skills in data visualization, dashboard design, and data integration, making it a valuable tool for data-driven decision-making. ​
 
-**Link to Project:**  [Merchant Market Dashboard](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+**Link to Project:**  [Merchant Market Dashboard](https://github.com/saeedaFatimah/Portfolio/tree/Project-6--Merchant-Market-Dashboard)
 
 
-### Linear Regression Analysis
+### Linear Regression Analysis for Customer Analytics
 
 **Description:**
 In this project, I performed a comprehensive linear regression analysis using a dataset related to customer analytics.
@@ -276,7 +276,7 @@ Scipy
 Statsmodels
 Scikit-learn
 
-**Link to Project:**  [Linear Regression Analysis](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+**Link to Project:**  [Linear Regression Analysis](https://github.com/saeedaFatimah/Portfolio/tree/Project-7--Linear-Regression-Analysis-for-Customer-Analytics)
 
 ### Statistical Hypothesis Tests (Z Test and T test)
 
@@ -309,7 +309,8 @@ Scipy
 Matplotlib
 Seaborn
 
-**Link to Project:**  [Statistical Hypothesis Tests (Z Test and T test)](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+**Link to Project:**  [Statistical Hypothesis Tests (Z Test and T test)](https://github.com/saeedaFatimah/Portfolio/tree/Project-8--Statistical-Hypothesis-Tests-(Z-Test-and-T-test))
+
 
 ### A/B Testing for Advertising Campaign Effectiveness
 
@@ -347,7 +348,7 @@ Statsmodels
 Matplotlib
 Seaborn
 
-**Link to Project:**  [A/B Testing for Advertising Campaign Effectiveness)](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+**Link to Project:**  [A/B Testing for Advertising Campaign Effectiveness)](https://github.com/saeedaFatimah/Portfolio/tree/Project-9-A/B-Testing-for-Advertising-Campaign-Effectiveness)
 
 ## How to Use
 
