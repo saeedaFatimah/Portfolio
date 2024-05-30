@@ -1,4 +1,4 @@
-# Saeeda Fatimah's Data Science Portfolio
+# Saeeda Ramzan's Data Science Portfolio
 
 I am a certified Data Scientist with a robust background in Software Quality Assurance (SQA) and a strong passion for data science. With a BS in Software Engineering from the Virtual University of Pakistan and a Professional Data Analyst Certification from Karachi.AI, I have developed a comprehensive skill set in both quality assurance and data analysis.
 
