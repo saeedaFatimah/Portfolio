@@ -41,7 +41,7 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Skills Used:** Python, pandas, clustering algorithms, data visualization.
 - **Link to Project:** [RFM-Segmenation over Store dataset](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
 
-### [K-means Clustering for Data Analysis](projects/kmeans-clustering)
+### [K-means Clustering for Data Analysis]
 - **Description:** Implemented K-means clustering on rfm clusters to analyze and interpret data for better insights.
 - **Key Activities:**
   - Data Preprocessing: Cleaned and normalized the data for clustering.
@@ -51,18 +51,31 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Skills Used:** Python, scikit-learn, matplotlib, pandas.
 - **Link to Project:**  [ML clustering over RFM segmentation ](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
 
-### [Sales Forecasting](projects/sales-forecasting)
-- **Description:** Forecasting future sales using time series analysis to help in planning and decision-making.
-- **Key Activities:**
-  - Data Collection: Gathered historical sales data.
-  - Time Series Analysis: Performed exploratory analysis of the time series data.
-  - Model Development: Developed and tuned ARIMA models for forecasting.
-  - Visualization: Created visualizations to present forecast results.
-- **Skills Used:** Python, pandas, statsmodels, data visualization.
-- **Link to Project:** [GitHub Repository](https://github.com/yourusername/sales-forecasting)
+### [ML Classification for the Employee Dataset ]
 
+**Project Overview**
+In this project, we predicted employee churn using a dataset with features such as education level, joining year, city, payment tier, age, gender, experience in the current domain, and whether the employee has ever been benched. The target variable was 'LeaveOrNot'.
 
-## Contact
+**Data Preprocessing**
+
+Missing Values: Handled any missing data.
+Encoding: Converted categorical variables ('Education', 'City', 'Gender', 'EverBenched') using appropriate encoding techniques.
+Scaling: Applied StandardScaler to numerical features.
+Exploratory Data Analysis (EDA)
+Analyzed distributions and relationships between features.
+
+Key insights on how education, payment tier, and experience affect churn.
+**Modeling**
+Built models using Logistic Regression, Random Forest, SVM, and KNN.
+Evaluated models with accuracy, precision, recall, and F1-score.
+Performed hyperparameter tuning for optimization.
+
+**Results**
+Best Model: Random Forest with the highest accuracy.
+Important Features: 'ExperienceInCurrentDomain', 'Age', and 'PaymentTier'.
+
+**Conclusion**
+Effective use of machine learning to predict employee churn, providing insights to help reduce turnover and improve retention strategies.
 
 - **Email:** saeedaa.fatimah@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
