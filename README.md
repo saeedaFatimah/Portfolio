@@ -29,7 +29,7 @@ I am a certified data analyst with a strong background in Python programming, st
   - Model Training: Implemented various algorithms, including Logistic Regression, Decision Trees, and Random Forest, and performed hyperparameter tuning.
   - Model Evaluation: Assessed models using accuracy, precision, recall, F1-score, and ROC-AUC, and used cross-validation to ensure consistency.
 - **Skills Used:** Python, pandas, scikit-learn, data visualization.
-- **Link to Project:** [GitHub Repository](https://github.com/saeedaFatimah/Portfolio/tree/project-1-StreamLit-App-for-Employee-Churn)
+- **Link to Project:** [Streamlit App for Employee Churn](https://github.com/saeedaFatimah/Portfolio/tree/project-1-StreamLit-App-for-Employee-Churn)
 
 ### [Customer Segmentation using RFM Analysis]
 - **Description:** A project for segmenting customers based on Recency, Frequency, and Monetary metrics to improve marketing strategies.
@@ -39,7 +39,7 @@ I am a certified data analyst with a strong background in Python programming, st
   - Visualization: Created visualizations to illustrate customer segments and their characteristics.
   - Clustering: Applied K-means clustering to group customers based on RFM scores.
 - **Skills Used:** Python, pandas, clustering algorithms, data visualization.
-- **Link to Project:** [https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+- **Link to Project:** [RFM-Segmenation over Store dataset](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
 
 ### [K-means Clustering for Data Analysis](projects/kmeans-clustering)
 - **Description:** Implemented K-means clustering on rfm clusters to analyze and interpret data for better insights.
@@ -49,7 +49,7 @@ I am a certified data analyst with a strong background in Python programming, st
   - Visualization: Visualized the resulting clusters using scatter plots and other visual aids.
   - Interpretation: Analyzed cluster characteristics and derived meaningful insights.
 - **Skills Used:** Python, scikit-learn, matplotlib, pandas.
-- **Link to Project:** [https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+- **Link to Project:**  [ML clustering over RFM segmentation ](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
 
 ### [Sales Forecasting](projects/sales-forecasting)
 - **Description:** Forecasting future sales using time series analysis to help in planning and decision-making.
