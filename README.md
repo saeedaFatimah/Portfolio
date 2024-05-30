@@ -18,6 +18,11 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Data Visualization:** Tableau, Matplotlib, seaborn
 - **Tools:** Jupyter Notebook, Git, Excel
 
+- - **Email:** saeedaa.fatimah@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
+- **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
+-**Github Portfolio**[Saeeda Ramzan's Portfolio](https://github.com/saeedaFatimah/Portfolio/edit/Portfolio/README.md)
+
 ## Projects
 
 ### [Employee Churn Prediction]
@@ -117,9 +122,6 @@ Effective use of machine learning to predict employee churn, providing insights 
 
 **Link to Project:**  [ML Classification for the Employee Dataset](https://github.com/saeedaFatimah/Portfolio/tree/Project-4-ML-Model-Classification-for-the-Employee-Dataset)
 
-- **Email:** saeedaa.fatimah@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
-- **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
 
 ### [ Hubway Trips Analysis through SQL and Pandas ]
 
