@@ -51,6 +51,42 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Skills Used:** Python, scikit-learn, matplotlib, pandas.
 - **Link to Project:**  [ML clustering over RFM segmentation ](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
 
+### [Olympic Athlete Data Analysis]
+
+**Objective:** Analyze Olympic athlete data to uncover trends and insights related to athlete attributes and regional differences.
+
+**Key Insights**
+Data Cleaning and Preparation:
+
+Merged athlete_events.csv with NOC_Regions.csv.
+Handled missing values and converted data types for accurate analysis.
+
+**Descriptive Statistics:**
+
+Calculated basic statistics (mean, median, standard deviation) for age, height, and weight.
+
+**Visualization:**
+
+Created histograms, bar charts, and scatter plots to illustrate findings.
+
+**Technical Skills Demonstrated**
+
+Data Manipulation: Used Pandas for data cleaning and merging.
+Statistical Analysis: Applied statistical methods for descriptive analysis.
+Data Visualization: Employed Matplotlib and Seaborn for visual representation of data.
+Python Programming: Developed scripts to automate data analysis tasks.
+
+**Skills and Tools Used**
+Data Manipulation: Pandas
+Statistical Analysis: Python
+Visualization: Matplotlib, Seaborn
+Environment: Jupyter Notebook
+
+**Conclusion**
+Analyzed and visualized athlete data to identify trends in physical attributes across regions. Demonstrated proficiency in data cleaning, statistical analysis, and visualization.
+
+ **Link to Project:**  [Olympic Athlete Data Analysis ](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+
 ### [ML Classification for the Employee Dataset ]
 
 **Project Overview**
@@ -79,9 +115,239 @@ Important Features: 'ExperienceInCurrentDomain', 'Age', and 'PaymentTier'.
 **Conclusion**
 Effective use of machine learning to predict employee churn, providing insights to help reduce turnover and improve retention strategies.
 
+**Link to Project:**  [ML Classification for the Employee Dataset](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+
 - **Email:** saeedaa.fatimah@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
 - **DataCamp Portfolio:** [Saeeda Fatimah's DataCamp Portfolio](https://www.datacamp.com/portfolio/saeedaafatimah)
+
+### [ Hubway Trips Analysis through SQL and Pandas ]
+
+**Objective:** Analyze Hubway bike-sharing trip data to uncover trends and patterns in user behavior.
+
+**Key Activities**
+
+*Data Cleaning and Preparation:*
+
+Loaded data from SQL tables trips and stations.
+Cleaned the data by replacing empty strings with NULL values and converting data types appropriately.
+Exploratory Data Analysis (EDA):
+
+Analyzed the duration, start and end times, start and end stations, bike numbers, user types, and user demographics (gender and birth date).
+
+*Descriptive Statistics:*
+
+Calculated the number of trips and stations to understand the dataset's scope.
+Analyzed trip duration to identify common trip lengths and potential anomalies.
+
+*User Demographics:*
+
+Analyzed user demographics, including gender distribution and age bands.
+
+*Geographic Analysis:*
+
+Mapped trips to states using user zip codes.
+Identified the top 5 states with the highest number of rides for registered users
+
+*Data Visualization:*
+
+Created various visualizations to represent the data, such as bar charts for trip counts and demographic distributions.
+
+**Technical Skills Demonstrated**
+*SQL:*
+
+Queried and manipulated data in SQL.
+Used SQL for data extraction and initial data cleaning steps.
+
+*Python:*
+
+Used Pandas for data manipulation and analysis.
+Applied functions to clean and process the data.
+Used zipcodes library to map zip codes to state names.
+
+*Data Visualization:*
+
+Created visualizations using Matplotlib and Seaborn to represent findings clearly.
+Tools and Technologies Used
+SQL
+Python
+Pandas
+Matplotlib & Seaborn
+Jupyter Notebook
+
+**Conclusion**
+This project analyzed Hubway bike-sharing data to identify trends in user behavior and demographics. The analysis demonstrated proficiency in SQL for data extraction, Python for data manipulation and visualization, and effective communication of findings through visualizations
+
+**Link to Project:**  [Hubway Trips Analysis through SQL and Pandas](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+
+
+### Merchant Market Dashboard
+
+**Objective:**  Create a Power BI dashboard to visualize and analyze merchant market data.
+
+**Key Features of the Dashboard**
+*Sales Performance:*
+
+Visualizes overall sales metrics, including total sales, average sales, and sales trends over time.
+Breaks down sales by product categories, regions, and time periods to identify top-performing segments.
+
+*Customer Insights:*
+
+Analyzes customer demographics and purchasing behavior.
+Segments customers based on purchase frequency, average order value, and lifetime value.
+
+*Product Analysis:*
+
+Examines product performance, highlighting best-selling products and underperformers.
+Analyzes inventory levels and turnover rates to optimize stock management.
+
+*Regional Analysis:*
+
+Visualizes sales distribution across different regions.
+Identifies regional trends and market opportunities.
+
+*Performance Metrics:*
+
+Key performance indicators (KPIs) such as gross margin, return rates, and customer satisfaction scores.
+Compares current performance against targets and historical data.
+
+**Technical Skills Demonstrated**
+
+*Data Visualization:*
+
+Designed interactive and intuitive visualizations using Power BI.
+Used various chart types (bar charts, line charts, pie charts, maps) to represent data effectively.
+
+*Data Integration:*
+
+Integrated data from multiple sources (e.g., sales databases, customer records).
+Ensured data consistency and accuracy through data cleaning and transformation.
+
+*Dashboard Design:*
+
+Created a user-friendly and visually appealing dashboard layout.
+Used filters and drill-down capabilities to allow users to explore data at different levels of detail.
+
+*Tools and Technologies Used*
+
+Power BI: Primary tool for creating the dashboard and visualizations.
+Data Sources: Various data sources such as SQL databases, Excel files, and CSV files.
+Data Transformation: Power Query for data cleaning and preparation.
+
+**Conclusion**
+The Merchant Market dashboard provides comprehensive insights into sales performance, customer behavior, product analysis, and regional trends. It demonstrates advanced skills in data visualization, dashboard design, and data integration, making it a valuable tool for data-driven decision-making. ​
+
+**Link to Project:**  [Merchant Market Dashboard](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+
+
+### Linear Regression Analysis
+
+**Description:**
+In this project, I performed a comprehensive linear regression analysis using a dataset related to customer analytics.
+
+**Key Steps:**
+
+*Data Preparation:*
+
+Loaded and inspected the dataset from a CSV file.
+Checked for and handled missing values and duplicates.
+
+*Exploratory Data Analysis (EDA):*
+
+Conducted descriptive statistics and visualized the data using various plots to understand distributions and relationships between variables.
+
+*Feature Engineering:*
+
+Applied label encoding to categorical variables to prepare them for the regression model.
+
+**Model Building:**
+
+Split the data into training and testing sets.
+Built a linear regression model using scikit-learn.
+Evaluated the model using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²).
+
+*Tools and Libraries Used:*
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scipy
+Statsmodels
+Scikit-learn
+
+**Link to Project:**  [Linear Regression Analysis](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+
+### Statistical Hypothesis Tests (Z Test and T test)
+
+**Description:**
+
+This project involved performing statistical hypothesis tests (Z-tests and T-tests) to analyze sample data and draw inferences.
+
+**Key Steps:**
+
+*Confidence Intervals:*
+
+Calculated 85%, 90%, and 95% confidence intervals for the mean monthly rent of apartments in Karachi using sample data.
+Analyzed how the confidence intervals change with different confidence levels.
+
+*Hypothesis Testing:*
+
+Used Z-tests and T-tests to compare sample means and proportions.
+Visualized the results to aid in interpretation.
+
+*Specific Analyses:*
+
+Calculated Z-scores for different confidence levels and plotted confidence intervals.
+Used Python libraries to compute and visualize the confidence intervals and hypothesis test results.
+
+*Tools and Libraries Used:*
+
+Pandas
+NumPy
+Scipy
+Matplotlib
+Seaborn
+
+**Link to Project:**  [Statistical Hypothesis Tests (Z Test and T test)](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
+
+### A/B Testing for Advertising Campaign Effectiveness
+
+**Description:**
+
+This project focused on performing A/B tests to determine the effectiveness of different variants in an advertising campaign.
+
+**Key Steps:**
+
+*Data Collection and Preparation:*
+
+Gathered data from surveys conducted at local shopping malls to analyze customer willingness to participate in market research.
+
+*Hypothesis Testing:*
+
+Conducted A/B tests to compare the proportions of customers willing to participate in surveys across different groups.
+Used a significance level of 0.01 to test the claim that the proportions are equal.
+
+*Inference and Conclusion:*
+
+Performed statistical tests to derive conclusions from the data.
+Documented the findings and provided interpretations in plain English.
+
+*Specific Analyses:*
+
+Used proportions Z-tests to compare categorical values.
+Visualized the results to better understand the data and support conclusions.
+
+*Tools and Libraries Used:*
+
+Pandas
+NumPy
+Scipy
+Statsmodels
+Matplotlib
+Seaborn
+
+**Link to Project:**  [A/B Testing for Advertising Campaign Effectiveness)](https://github.com/saeedaFatimah/Portfolio/tree/Project-2--RFM-segmentation-over-store-dataset)
 
 ## How to Use
 
