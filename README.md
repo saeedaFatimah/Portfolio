@@ -36,6 +36,9 @@ I am a certified data analyst with a strong background in Python programming, st
 - **Skills Used:** Python, pandas, scikit-learn, data visualization.
 - **Link to Project:** [Streamlit App for Employee Churn](https://github.com/saeedaFatimah/Portfolio/tree/project-1-StreamLit-App-for-Employee-Churn)
 
+- ![Streanlit App for Employee Churn](https://github.com/saeedaFatimah/Portfolio/blob/e2f40db467d712330e64590376f78acda50438e6/streamlit%20app%20screenshot.PNG)
+
+
 ### [Customer Segmentation using RFM Analysis]
 - **Description:** A project for segmenting customers based on Recency, Frequency, and Monetary metrics to improve marketing strategies.
 - **Key Activities:**
@@ -213,6 +216,8 @@ Identifies regional trends and market opportunities.
 Key performance indicators (KPIs) such as gross margin, return rates, and customer satisfaction scores.
 Compares current performance against targets and historical data.
 
+- ![Merchant Market Dashboard](https://github.com/saeedaFatimah/Portfolio/blob/274a64bb79e7fda546675646faa767d7d2033878/Capture.PNG)
+
 **Technical Skills Demonstrated**
 
 *Data Visualization:*
@@ -240,6 +245,8 @@ Data Transformation: Power Query for data cleaning and preparation.
 The Merchant Market dashboard provides comprehensive insights into sales performance, customer behavior, product analysis, and regional trends. It demonstrates advanced skills in data visualization, dashboard design, and data integration, making it a valuable tool for data-driven decision-making. ​
 
 **Link to Project:**  [Merchant Market Dashboard](https://github.com/saeedaFatimah/Portfolio/tree/Project-6--Merchant-Market-Dashboard)
+
+- ![Merchant Market Dashboard](https://github.com/saeedaFatimah/Portfolio/blob/274a64bb79e7fda546675646faa767d7d2033878/Mechant%20Market%20Dashboard.PNG)
 
 
 ### Linear Regression Analysis for Customer Analytics
