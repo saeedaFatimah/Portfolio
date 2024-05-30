@@ -65,7 +65,9 @@ Exploratory Data Analysis (EDA)
 Analyzed distributions and relationships between features.
 
 Key insights on how education, payment tier, and experience affect churn.
+
 **Modeling**
+
 Built models using Logistic Regression, Random Forest, SVM, and KNN.
 Evaluated models with accuracy, precision, recall, and F1-score.
 Performed hyperparameter tuning for optimization.
