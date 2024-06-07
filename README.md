@@ -9,7 +9,7 @@ However, my passion for uncovering insights from data and my attraction to the r
 I am now eager to leverage my analytical aptitude and data science skills to make meaningful contributions to a dynamic data science team. I am passionate about continuously learning and staying updated with the latest advancements in data science and machine learning.
 
 ## About Me
-I am a certified data analyst with a strong background in Python programming, statistics, machine learning, SQL, and Tableau. I completed a comprehensive 16-week data analytics certification course from an institute affiliated with FAST University in Karachi. My passion lies in leveraging data to solve complex problems and drive business decisions.
+Data analyst with a strong background in Python programming, statistics, machine learning, SQL, and Tableau. I completed a comprehensive 16-week data analytics certification course from an institute affiliated with FAST University in Karachi. My passion lies in leveraging data to solve complex problems and drive business decisions.
 
 - - **Email:** saeedaa.fatimah@gmail.com
 - - **LinkedIn:** https://www.linkedin.com/in/saeedafatima-ramzanali
