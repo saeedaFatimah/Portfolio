@@ -1,0 +1,43 @@
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?city=lahore&city=karachi&maker=Toyota&maker=Honda&model=Corolla&model=Civic&year=2020
+
+
+City Only:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?city=karachi
+City and Maker:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?city=karachi&maker=Honda
+City, Maker, and Model:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?city=islamabad&maker=Honda&model=Civic
+City, Maker, Model, and Year:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?city=islamabad&maker=Toyota&model=Corolla&year=2020
+Maker Only:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?maker=Suzuki
+Model Only:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?model=Mehran
+Year Only:
+
+http://127.0.0.1:5000/scraper/api/v1/pakwheels/scrap?year=2019
+
+
+
+
+
+
+
+
+
+
+http://127.0.0.1:5001/scraper/api/v1/gari_pk/scrap?city=karachi&maker=honda&model=civic
+
+
+http://127.0.0.1:5001/scraper/api/v1/gari_pk/scrap?city=karachi&city=lahore&maker=honda&maker=toyota&model=civic&model=corolla
+
+
+
+http://127.0.0.1:5002/scraper/api/v1/competitor_analysis?city=karachi&city=lahore&maker=toyota&maker=honda&model=corolla&model=civic&year=2022&year=2021
+
